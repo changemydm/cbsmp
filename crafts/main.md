@@ -5,14 +5,14 @@
 ## 💡 Блок света
 Это невидимый блок, в первую очередь предназначенный для строителей, который производит 15-й уровень света. Чтобы сломать поставленный блок света, возьмите другой блок света в руку и наведите на поставленный.
 
-![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/invlight.png)
+![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/invlight.png "Изображение")
 
 ## 🖼️ Невидимая рамка
 Рамка с эффектом невидимости. Подходит для декораций
 
-![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/%D1%80%D0%B0%D0%BC%D0%BA%D0%B0.png)
+![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/%D1%80%D0%B0%D0%BC%D0%BA%D0%B0.png "Изображение")
 
 ## 🔧 Палка отладки
 Палка отладки нужна, чтобы видоизменять блок. С помощью нее можно поворачивать ступеньки, менять вид ограды или заборов. 
 
-![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/%D0%BF%D0%B0%D0%BB%D0%BA%D0%B0.png)
+![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/%D0%BF%D0%B0%D0%BB%D0%BA%D0%B0.png "Изображение")
