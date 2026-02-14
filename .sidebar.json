@@ -1,0 +1,13 @@
+{
+  "/*": "CubeSMP Wiki",
+  "/intro": "Введение",
+  "/crafts": "Крафты",
+  "/rules/*": "Правила",
+  "/rules/rules": "Общие правила",
+  "/rules/mods": "Запрещенные модификации",
+  "/guides/*": "Гайды",
+  "/guides/litematica": "Мод Litematica",
+  "/guides/drugs/*": "Наркотики",
+  "/guides/drugs/list": "Список наркотиков",
+  "/guides/drugs/ingredients": "Ингридиенты"
+}
