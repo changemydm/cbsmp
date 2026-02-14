@@ -27,11 +27,11 @@
 ### 🚬 Сигарета
 | **Ресурсы** | **Крафт** |
 | :----: | :----: |
-| 1 табак; 8 папиросной бумаги | ![Сигарета](https://github.com/changemydm/cbsmp/blob/main/guides/drugs/img/cigarette.png) |
+| 1 [табак](drugs_ingredients.md#-семена-табака); 8 [папиросной бумаги](drugs_ingredients.md#%EF%B8%8F-папиросная-бумага) | ![Сигарета](https://github.com/changemydm/cbsmp/blob/main/guides/drugs/img/cigarette.png) |
 
 ### 🚬 Самокрутка
 | **Ресурсы** | **Крафт** |
 | :----: | :----: |
-| 1 марихуана; 8 длинной папиросной бумаги | ![Самокрутка](https://github.com/changemydm/cbsmp/blob/main/guides/drugs/img/samokrut.png) |
+| 1 [марихуана](drugs_ingredients.md#-семена-марихуаны); 8 [длинной папиросной бумаги](drugs_ingredients.md#%EF%B8%8F-папиросная-бумага) | ![Самокрутка](https://github.com/changemydm/cbsmp/blob/main/guides/drugs/img/samokrut.png) |
 
 
