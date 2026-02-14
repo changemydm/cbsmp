@@ -9,3 +9,5 @@
 
 ## 🖼️ Невидимая рамка
 Рамка с эффектом невидимости. Подходит для декораций
+
+![Изображение](https://github.com/changemydm/cbsmp/blob/main/crafts/img/%D1%80%D0%B0%D0%BC%D0%BA%D0%B0.png)
