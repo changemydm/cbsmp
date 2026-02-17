@@ -13,5 +13,5 @@
   "/guides/drugs/*": "Наркотики",
   "/guides/drugs/list": "Список",
   "/guides/drugs/ingredients": "Ингридиенты",
-  "/guides/alcohol/brewery": "Алкоголь"
+  "/guides/brewery": "Алкоголь"
 }
