@@ -10,8 +10,8 @@
   "/rules/blocklist": "Запрещенные выражения",
   "/guides/*": "Гайды",
   "/guides/litematica": "Мод Litematica",
+  "/guides/brewery": "Алкоголь",
   "/guides/drugs/*": "Наркотики",
   "/guides/drugs/list": "Список",
-  "/guides/drugs/ingredients": "Ингридиенты",
-  "/guides/brewery": "Алкоголь"
+  "/guides/drugs/ingredients": "Ингридиенты"
 }
