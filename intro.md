@@ -12,6 +12,7 @@
 # Ищете гайды?
 
 - [Мод Litematica](/guides/litematica.md)
+- [Алкоголь](/guides/brewery.md)
 - [Наркотики](/guides/drugs/list.md)
 
 # Все еще стались вопросы?
