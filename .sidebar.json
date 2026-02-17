@@ -12,5 +12,6 @@
   "/guides/litematica": "Мод Litematica",
   "/guides/drugs/*": "Наркотики",
   "/guides/drugs/list": "Список",
-  "/guides/drugs/ingredients": "Ингридиенты"
+  "/guides/drugs/ingredients": "Ингридиенты",
+  "/guides/brewery": "Алкоголь"
 }
