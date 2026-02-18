@@ -1,0 +1,45 @@
+[
+  {
+    id: 3,
+    current: true,
+    name: "CubeSMP 3",
+    description:
+      "Четыре основных городов, большой приток новых игроков. Мы планируем сделать самый насыщенный, масштабный и прогрессивный сезон.",
+    version: "1.21.11",
+    online: 17,
+    screenshots: ["/photos/photo2.png", "/photos/photo1.png"],
+  },
+  {
+    id: 2,
+    current: false,
+    name: "CubeSMP 2",
+    description:
+      "Летний сезон, который продлился 3 месяца. Было построено два основных города, первый масштабный проект, проведены множество ивентов.",
+    version: "1.20.1",
+    online: 10,
+    screenshots: [
+      "/photos/photo3.png",
+      "/photos/photo4.png",
+      "/photos/photo5.png",
+      "/photos/photo6.png",
+    ],
+  },
+  {
+    id: 1,
+    current: false,
+    name: "CubeSMP 1",
+    description:
+      "Один из удачных сезонов, который продлился 2 месяца. Было построено несколько городов, основана газета. К разработке сервера присоединился еще один человек.",
+    version: "1.16.5",
+    online: 6,
+  },
+  {
+    id: 0,
+    current: false,
+    name: "FoxSMP",
+    description:
+      "Ранее сервер назывался FoxSMP и разрабатывался командой из 3 человек, однако из-за разногласий один из администраторов ушел с проекта и основал свой: CubeSMP.",
+    version: "1.16",
+    online: 8,
+  }
+]
