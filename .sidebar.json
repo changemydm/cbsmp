@@ -10,7 +10,7 @@
   "/rules/blocklist": "Запрещенные выражения",
   "/guides/*": "Гайды",
   "/guides/litematica": "Мод Litematica",
-  "/guides/coreprotect/": "CoreProtect",
+  "/guides/coreprotect": "CoreProtect",
   "/guides/brewery": "Алкоголь",
   "/guides/drugs/*": "Наркотики",
   "/guides/drugs/list": "Список",
