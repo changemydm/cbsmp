@@ -6,7 +6,7 @@
 
 ## Как попасть на сервер?
 
-Вход по вайтлисту: напишите в наш [Telegram-чат](https://t.me/cubesmp_ru_chat/1103) или [Discord-сервер](https://dsc.gg/cubesmp-ru) и напишите анкету о себе, после одобрения вы сможете зайти на сервер.
+Вход по вайтлисту: напишите в наш [Telegram-чат](https://t.me/lyralounge/1103) или [Discord-сервер](https://dsc.gg/lyra-ru) и напишите анкету о себе, после одобрения вы сможете зайти на сервер.
 
 ## Зачем нужен вайтлист?
 
@@ -39,14 +39,14 @@
 
 ## Где общается комьюнити?
 
-- [Telegram-чат](https://t.me/cubesmp_ru_chat) (Большая часть)
-- [Discord-сервер](https://dsc.gg/cubesmp-ru)
+- [Telegram-чат](https://t.me/lyralounge) (Большая часть)
+- [Discord-сервер](https://dsc.gg/lyra-ru)
 
 ## Контакты администрации
 
-- ["Связь с администрацией" в Telegram-чате](https://t.me/cubesmp_ru_chat/694)
-- #связь-с-администрацией на [Дискорд-сервере](https://dsc.gg/cubesmp-ru)
+- ["Связь с администрацией" в Telegram-чате](https://t.me/lyralounge/694)
+- #связь-с-администрацией на [Дискорд-сервере](https://dsc.gg/lyra-ru)
 
 ## Другие контакты
 
-Остальные контакты можете посмотреть [здесь](https://www.cubesmp.xyz/contacts).
+Остальные контакты можете посмотреть [здесь](https://www.lyramc.ru/contacts).
