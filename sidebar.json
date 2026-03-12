@@ -8,11 +8,11 @@
   "/rules/rules": "Правила",
   "/rules/mods": "Запрещенные модификации",
   "/rules/blocklist": "Запрещенные выражения",
-  "wiki//guides/*": "Гайды",
-  "wiki//guides/litematica": "Мод Litematica",
-  "wiki//guides/coreprotect": "CoreProtect",
-  "wiki//guides/brewery": "Алкоголь",
-  "wiki//guides/drugs/*": "Наркотики",
-  "wiki//guides/drugs/list": "Список",
-  "wiki//guides/drugs/ingredients": "Ингридиенты"
+  "wiki/guides/*": "Гайды",
+  "wiki/guides/litematica": "Мод Litematica",
+  "wiki/guides/coreprotect": "CoreProtect",
+  "wiki/guides/brewery": "Алкоголь",
+  "wiki/guides/drugs/*": "Наркотики",
+  "wiki/guides/drugs/list": "Список",
+  "wiki/guides/drugs/ingredients": "Ингридиенты"
 }
