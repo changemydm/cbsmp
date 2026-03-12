@@ -19,7 +19,7 @@
 ## ⚙️ Рецепт крафта
 
 <div align="center">
-<img src="wiki/img/crafts/light.png" alt="Блок света" width="400"/>
+<img src="wiki/img/light.png" alt="Блок света" width="400"/>
 </div>
 
 ## 📝 Описание
@@ -45,7 +45,7 @@
 ## ⚙️ Рецепт крафта
 
 <div align="center">
-<img src="wiki/img/crafts/frame.png" alt="Невидимая рамка" width="400"/>
+<img src="wiki/img/frame.png" alt="Невидимая рамка" width="400"/>
 </div>
 
 ## 📝 Описание
@@ -71,7 +71,7 @@
 ## ⚙️ Рецепт крафта
 
 <div align="center">
-<img src="wiki/img/crafts/debug.png" alt="Палка отладки" width="400"/>
+<img src="wiki/img/debug.png" alt="Палка отладки" width="400"/>
 </div>
 
 ## 📝 Описание
