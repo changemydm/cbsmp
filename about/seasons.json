@@ -6,7 +6,11 @@
     "description": "Множество разных городов, большой приток новых игроков. Мы планируем сделать самый насыщенный, масштабный и прогрессивный сезон.",
     "version": "1.21.11",
     "online": 20,
-    "screenshots": ["img/screenshots/photo2.png", "img/screenshots/photo1.png", "img/screenshots/photo7.jpg"]
+    "screenshots": [
+      "img/photo2.png", 
+      "img/photo1.png", 
+      "img/photo7.jpg"
+    ]
   },
   {
     "id": 2,
@@ -16,10 +20,10 @@
     "version": "1.20.1",
     "online": 10,
     "screenshots": [
-      "img/screenshots/photo3.png",
-      "img/screenshots/photo4.png",
-      "img/screenshots/photo5.png",
-      "img/screenshots/photo6.png"
+      "img/photo3.png",
+      "img/photo4.png",
+      "img/photo5.png",
+      "img/photo6.png"
     ]
   },
   {
