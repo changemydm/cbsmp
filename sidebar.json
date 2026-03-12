@@ -1,9 +1,9 @@
 {
   "/*": "Lyra Wiki",
   "wiki/intro": "Введение",
-  "wiki//faq": "Часто задаваемые вопросы",
-  "wiki//crafts": "Крафты",
-  "wiki//commands": "Команды",
+  "wiki/faq": "Часто задаваемые вопросы",
+  "wiki/crafts": "Крафты",
+  "wiki/commands": "Команды",
   "/rules/*": "Правила",
   "/rules/rules": "Правила",
   "/rules/mods": "Запрещенные модификации",
