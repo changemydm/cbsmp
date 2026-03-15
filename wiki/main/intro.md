@@ -4,16 +4,15 @@
 
 # Впервые на сервере?
 
-- [Правила сервера](/rules/rules.md)
-- [Запрещенные модификации](/rules/mods.md)
+- [Правила сервера](https://lyramc.vercel.app/rules/rules)
+- [Запрещенные модификации](https://lyramc.vercel.app/rules/mods)
 - [Команды сервера](/commands.md)
-- [Крафты](/crafts.md)
+- [Крафты](https://lyramc.vercel.app/wiki/crafts)
 
 # Ищете гайды?
 
-- [Мод Litematica](/guides/litematica.md)
-- [Алкоголь](/guides/brewery.md)
-- [Наркотики](/guides/drugs/list.md)
+- [Мод Litematica](https://lyramc.vercel.app/wiki/litematica)
+- [Алкоголь](https://lyramc.vercel.app/wiki/brewery)
 
 # Все еще стались вопросы?
 
