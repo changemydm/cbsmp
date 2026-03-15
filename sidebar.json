@@ -12,5 +12,8 @@
   "wiki/guides/crafts": "Крафты",
   "wiki/guides/litematica": "Мод Litematica",
   "wiki/guides/coreprotect": "CoreProtect",
-  "wiki/guides/brewery": "Алкоголь"
+  "wiki/guides/brewery": "Алкоголь",
+  "wiki/ur/*": "Юр. информация",
+  "wiki/ur/privacypolicy": "Политика конфиденциальности",
+  "wiki/ur/useragreement": "Пользовательское соглашение"
 }
