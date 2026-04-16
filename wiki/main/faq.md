@@ -30,8 +30,8 @@
 
 ## Где прочитать правила?
 
-- [Правила сервера](https://lyramc.ru/rules.html)
-- [Запрещенные модификации](https://lyramc.ru/rules/mods)
+- [Правила сервера](https://lyramc.ru/rules)
+- [Запрещенные модификации](https://lyramc.ru/rules#mods)
 
 ---
 
